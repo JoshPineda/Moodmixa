@@ -6,9 +6,9 @@ UPSET = {
 	'name':'upset',
 	'valence': variance.Variant('low'),
 	'tempo': variance.Variant('low_t'),
-	'danceability': variance.Variant('random'),
+	'danceability': variance.Variant('low-medium'),
 	#'loudness': variance.Variant('low-medium'),
-	'energy': variance.Variant('low-medium'),
+	'energy': variance.Variant('low'),
 	#'acousticness':variance.Variant('random')
 }
 
