@@ -6,8 +6,8 @@ import spotipy
 import spotipy.util as util
 
 # Application details from Spotify
-CLIENT_ID = "d1ef8fa7e6874c84a64551270ece8ec1"
-CLIENT_SECRET = "dc39484435b642de997297797b076852"
+CLIENT_ID = "CLIENT_ID"
+CLIENT_SECRET = "CLIENT_SECRET"
 REDIRECT_URI = "http://localhost:8888/callback"
 
 # What this application needs to access from user to do function
